@@ -1,0 +1,7 @@
+include: package:lints/recommended.yaml
+
+linter: 
+  rules:
+    - camel_case_types
+    - always_put_control_body_on_new_line
+    - always_declare_return_types
